@@ -1,1 +1,1 @@
-# git-practice
+# This is a training repository
